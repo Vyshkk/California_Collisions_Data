@@ -5,18 +5,18 @@
 
 
 
-Accidents have increased by 4.7% from 2015 to 2019
+#1 Accidents have increased by 4.7% from 2015 to 2019
 
-Top 5 busiest routes for 2015 to 2019 are: RT 5, RT 101, RT 10, RT 99, RT 80
+#2 Top 5 busiest routes for 2015 to 2019 are: RT 5, RT 101, RT 10, RT 99, RT 80
 
-In California, 31% collisions are due to speeding violations
+#3 In California, 31% collisions are due to speeding violations
 
-Nearly 8% collisions are due to dui violations
+#4 Nearly 8% collisions are due to dui violations
 
-Collisions involving alcohol increased by 8% from 2015 to 2016
+#5 Collisions involving alcohol increased by 8% from 2015 to 2016
 
-Bicycle collisions have reduced by 1.6% from 2015 to 2019
+#6 Bicycle collisions have reduced by 1.6% from 2015 to 2019
 
-Dui cases increased by 9.3% from 2015 to 2016
+#7 Dui cases increased by 9.3% from 2015 to 2016
 
-Nearly 32% of collisions are rear-ended collisions
+#8 Nearly 32% of collisions are rear-ended collisions
