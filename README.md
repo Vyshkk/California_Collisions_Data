@@ -5,7 +5,7 @@ narrow lanes, dense traffic.. etc which make some roads more prone to accident t
 
 
 
-# #1 Accidents have increased by 4.7% from 2015 to 2019
+### #1 Accidents have increased by 4.7% from 2015 to 2019
 
 # #2 Top 5 busiest routes for 2015 to 2019 are: RT 5, RT 101, RT 10, RT 99, RT 80
 
